@@ -1,9 +1,9 @@
 # TPsOtrasMateriasUNDAV
 
 Trabajos Prácticos para las siguientes materias de la Universidad Nacional de Avellaneda:
-1- Circuitos y Mediciones Electrónicas. Profesor Federico D'Angiolo.
-2- Arquitecturas y Elaboracion de Datos II. Profesor Federico D'Angiolo.
-3- Gestion de Datos. Profesor José Sfeir.
+* 1- Circuitos y Mediciones Electrónicas. Profesor Federico D'Angiolo.
+* 2- Arquitecturas y Elaboracion de Datos II. Profesor Federico D'Angiolo.
+* 3- Gestion de Datos. Profesor José Sfeir.
 
 
 ## 1-TP Circuitos y Mediciones Electrónicas
